@@ -1,0 +1,21 @@
+.result{
+    padding: 80px;
+    border: 1px solid gold;
+    
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    background-color: rgb(138, 138, 138);
+    padding: 5px;
+    
+}
+.grid-item {
+    background-color: rgb(216, 216, 202);
+    padding: 20px;
+    height: 10vh;
+    font-size: 30px;
+    text-align: center;
+    border-collapse: collapse;
+    
+}
